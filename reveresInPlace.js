@@ -15,3 +15,10 @@ function reverse(arrayOfChars) {
       rightIndex--;
     }
   }
+
+
+  const stream = require('stream');
+
+function setupStreams(dataInputStream, dataOutputStream, callback) {
+  // Write your code here
+}
